@@ -8,6 +8,7 @@ public class AiIdle : AiBase {
 	
 	public override void Navigate(NavMeshAgent ai)
 	{
-		
+		ai.speed = Speed.Value;
+		ai.angularSpeed = AngularSpeed.Value;
 	}
 }

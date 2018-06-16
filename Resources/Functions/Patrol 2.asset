@@ -11,5 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edc79c88228e340ae94f9104e7ad7473, type: 3}
   m_Name: Patrol 2
   m_EditorClassIdentifier: 
+  Speed: {fileID: 11400000, guid: aba56aa4c5baf47f08db433b7e038d0a, type: 2}
+  AngularSpeed: {fileID: 11400000, guid: c704c0d4986c64145814569438fe257b, type: 2}
   AddPointsToList: {fileID: 11400000, guid: 83f949dcccf3e4c3a8d07694ab007b87, type: 2}
   AddPointList: {fileID: 11400000, guid: 89a88a55bf34a42d798a3d4f13465224, type: 2}
